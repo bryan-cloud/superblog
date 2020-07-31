@@ -1,5 +1,5 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     color: orange;
     background-color: sienna;
 }
@@ -8,6 +8,9 @@ h1{
     color: palegreen;
     background-color: palevioletred;
     padding: 10px;
+}
+p{
+    background-color: teal;
 }
 .dos{
     color: purple;
