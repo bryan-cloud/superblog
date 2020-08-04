@@ -4,6 +4,14 @@ body{
     background-color: sienna;
 }
 
+header{
+    width: 1000px;
+    height: 100px;
+    margin: 100px;
+}
+nav ul li{
+    display: inline;
+}
 h1{
     color: palegreen;
     background-color: palevioletred;
